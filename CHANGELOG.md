@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.1.6
+
+  - A bunch of fixes
+
+## v0.1.5
+
+  - tag without updating version
+  - Add bme280 support (experimental)
+
 ## v0.1.4
 
   - Add configurable temperature compensation (`temperature_offset` option)
