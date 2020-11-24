@@ -1,7 +1,12 @@
 # Changelog
 
+## v0.1.7
+
+  - Tag properly
+
 ## v0.1.6
 
+  - tag without updating version
   - A bunch of fixes
 
 ## v0.1.5
